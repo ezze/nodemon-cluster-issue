@@ -1,0 +1,17 @@
+{
+  "name": "nodemon-cluster-issue",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "git@github.com:ezze/nodemon-cluster-issue",
+  "author": "Dmitriy Pushkov <ezze@ezze.org>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --watch server.js"
+  },
+  "dependencies": {
+    "koa": "^2.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
