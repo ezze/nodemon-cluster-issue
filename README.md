@@ -24,3 +24,11 @@ This repo is purposed to reproduce nodemon 2.0.1 restart issue.
     
     ![](issue.png)
     
+    **Note!**
+    
+    Works as expected with nodemon 2.0.0:
+    
+    ```bash
+    $ yarn add nodemon@2.0.0 --dev
+    $ yarn start
+    ```
