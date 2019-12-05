@@ -1,6 +1,6 @@
 # nodemon-cluster-issue
 
-This repo is purposed to reproduce nodemon 2.0.1 restart issue.
+This repo is purposed to reproduce [nodemon 2.0.1 restart issue when using cluster](https://github.com/remy/nodemon/issues/1643).
 
 ## How to reproduct
 
